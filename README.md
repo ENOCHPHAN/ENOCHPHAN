@@ -1,5 +1,6 @@
 # 💫 About Me:
 Hi there 👋 I'm Phan Hong Son, and I'm currently a student of information technology.
+Contact me with gmail: enochphann@gmail.com
 
 
 ## 🌐 Socials:
