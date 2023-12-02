@@ -1,5 +1,5 @@
 # 💫 About Me:
-- Hi there 👋 I'm Phan Hong Son, and I'm currently a student of information technology
+- Hi there 👋 I'm Phan Hong Son, and I'm currently a Java Developer
 - Contact me with gmail: enochphann@gmail.com
 
 
